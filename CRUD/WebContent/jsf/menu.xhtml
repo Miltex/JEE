@@ -1,0 +1,46 @@
+<ui:fragment xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:p="http://primefaces.org/ui">
+
+	<h:form>
+
+		<p:menubar>
+
+			<p:submenu label="Nova" icon="ui-icon-gear">
+			
+				<p:submenu label="Ação" icon="ui-icon-refresh">
+				
+					<p:menuitem value="Inserir" outcome="incluirProduto"
+						icon="ui-icon-disk" update="messages" >	
+						<f:param name="active" value="incluir" />
+					</p:menuitem>
+						
+					<p:menuitem value="Listar" outcome="listarProdutos"
+						icon="ui-icon-arrowrefresh-1-w" update="messages" />
+						
+				</p:submenu>
+				
+			</p:submenu>
+			
+			<p:submenu label="Contato" icon="ui-icon-search">
+				
+					<p:menuitem value="Social" url="http://facebook.com/flmilton" target="open" icon="ui-icon-contact" />
+					<p:separator/>
+					<p:menuitem value="Curriculum Vitae" url="http://linkedin.com/in/flmilton" target="open" icon="ui-icon-contact" />
+				
+			</p:submenu>
+
+			<f:facet name="options">
+				<p:commandButton value="Sair" update="messages" id="ajax" actionListener="#{menuControl.sair}"
+				 styleClass="ui-priority-primary" icon="ui-icon-close"/>  
+			</f:facet>
+			
+		</p:menubar>
+		
+		<p:growl id="messages" />
+		
+	</h:form>
+
+</ui:fragment>
