@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23035b08-c462-481a-86ac-bc4377b0e134" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/WebContent/WEB-INF/faces-config.pageflow" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/.jsdtscope" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.ws.service.policy.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/facelets/footer.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/facelets/header.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/facelets/template.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/faces-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/lib/primefaces-4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/jsf/editarProduto.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/jsf/formProduto.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/jsf/incluirProduto.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/jsf/index.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/jsf/listarProdutos.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/jsf/menu.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/resources/css/bootstrap-responsive.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/resources/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/resources/css/prime.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/resources/img/glyphicons-halflings-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/resources/img/glyphicons-halflings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/miltex/ctrl/MenuControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/miltex/ctrl/ProdutoControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/miltex/dominio/AbstractEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/miltex/dominio/AbstractPersistence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/miltex/dominio/model/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/miltex/service/ProdutoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/miltex/service/ProdutoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/messages_labels.properties" beforeDir="false" />
-    </list>
+    <list default="true" id="23035b08-c462-481a-86ac-bc4377b0e134" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,12 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Miltex"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Miltex&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Miltex/JEE.git&quot;,
@@ -76,25 +33,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/milton/workspace/JEE",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/milton/workspace/JEE&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -118,12 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1768690051538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajustando projeto com o gemini cli">
+      <option name="closed" value="true" />
+      <created>1768690615415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768690615415</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modificando projeto com o gemini cli" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificando projeto com o gemini cli" />
+    <MESSAGE value="ajustando projeto com o gemini cli" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustando projeto com o gemini cli" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
