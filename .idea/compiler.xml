@@ -6,9 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CRUD-ear" />
-        <module name="CRUD-war" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CRUD-ear" target="1.8" />
+      <module name="CRUD-parent" target="1.8" />
+      <module name="CRUD-war" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

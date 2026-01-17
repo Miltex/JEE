@@ -4,49 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea9fae47-9235-4a5a-a4df-13fde4cb0766" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CRUD/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.metadata/WebContent/WEB-INF/faces-config.pageflow" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.settings/.jsdtscope" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/.settings/org.eclipse.wst.ws.service.policy.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/WEB-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/WEB-INF/facelets/footer.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/WEB-INF/facelets/header.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/WEB-INF/facelets/template.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/WEB-INF/faces-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/WEB-INF/lib/primefaces-4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/jsf/editarProduto.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/jsf/formProduto.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/jsf/incluirProduto.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/jsf/index.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/jsf/listarProdutos.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/jsf/menu.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/resources/css/bootstrap-responsive.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/resources/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/resources/css/prime.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/resources/img/glyphicons-halflings-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/WebContent/resources/img/glyphicons-halflings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/br/miltex/ctrl/MenuControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/br/miltex/ctrl/ProdutoControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/br/miltex/dominio/AbstractEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/br/miltex/dominio/AbstractPersistence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/br/miltex/dominio/model/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/br/miltex/service/ProdutoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/br/miltex/service/ProdutoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/src/messages_labels.properties" beforeDir="false" />
+    <list default="true" id="23035b08-c462-481a-86ac-bc4377b0e134" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/WebContent/WEB-INF/faces-config.pageflow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.ws.service.policy.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/facelets/footer.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/facelets/header.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/facelets/template.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/lib/primefaces-4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/jsf/editarProduto.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/jsf/formProduto.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/jsf/incluirProduto.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/jsf/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/jsf/listarProdutos.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/jsf/menu.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/resources/css/bootstrap-responsive.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/resources/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/resources/css/prime.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/resources/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/resources/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/miltex/ctrl/MenuControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/miltex/ctrl/ProdutoControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/miltex/dominio/AbstractEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/miltex/dominio/AbstractPersistence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/miltex/dominio/model/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/miltex/service/ProdutoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/miltex/service/ProdutoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/messages_labels.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +56,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Miltex"
+  }
 }]]></component>
-  <component name="ProjectId" id="38OiLMsxIBO0hTjaG3OEHzPrYHv" />
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Miltex/JEE.git&quot;,
+    &quot;accountId&quot;: &quot;3a62a9a6-783a-42d6-8800-30297f2e474c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38OjHGrfLGyfYRoLnrIxqBYil6P" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +84,15 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/milton/workspace/JEE/CRUD"
+    "last_opened_file_path": "/home/milton/workspace/JEE",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -84,12 +104,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ea9fae47-9235-4a5a-a4df-13fde4cb0766" name="Changes" comment="" />
-      <created>1768676961914</created>
+      <changelist id="23035b08-c462-481a-86ac-bc4377b0e134" name="Changes" comment="" />
+      <created>1768677422284</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1768676961914</updated>
+      <updated>1768677422284</updated>
     </task>
+    <task id="LOCAL-00001" summary="Modificando projeto com o gemini cli">
+      <option name="closed" value="true" />
+      <created>1768690051538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768690051538</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modificando projeto com o gemini cli" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificando projeto com o gemini cli" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
