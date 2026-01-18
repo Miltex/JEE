@@ -1,5 +1,6 @@
 # Contexto do Projeto - CRUD Java EE
 
+- Como um Desenvolvedor Java Sênior
 - Linguagem: Java 11
 - Framework: javaee-api
 - Build Tool: Maven
