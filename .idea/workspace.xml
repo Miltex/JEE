@@ -93,14 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768691404988</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="translate readme file">
+      <option name="closed" value="true" />
+      <created>1768749987375</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768749987375</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modificando projeto com o gemini cli" />
     <MESSAGE value="ajustando projeto com o gemini cli" />
     <MESSAGE value="add context to project with gemini cli" />
-    <option name="LAST_COMMIT_MESSAGE" value="add context to project with gemini cli" />
+    <MESSAGE value="translate readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="translate readme file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

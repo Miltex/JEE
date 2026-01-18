@@ -1,7 +1,0 @@
-br/miltex/dominio/AbstractPersistence.class
-br/miltex/dominio/model/Produto.class
-br/miltex/ctrl/ProdutoControl.class
-br/miltex/dominio/AbstractEntity.class
-br/miltex/service/ProdutoService.class
-br/miltex/service/ProdutoServiceImpl.class
-br/miltex/ctrl/MenuControl.class
